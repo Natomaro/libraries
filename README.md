@@ -9,4 +9,4 @@ the other two folders contain the actual .ino files to run - calibration_ec.ino 
 need to be somewhere within the same program files directory for Arduino (I just happened to leave my in the libraries directory 
 before this, hence why the are also in this repo labelled "libraries". 
 
-I excluded all of my other Arduino libraries that were in this directory, too for clarity.
+I excluded all of my other Arduino libraries that were in this directory for clarity.
